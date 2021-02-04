@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DockerTraining
+/packages
+/src/Project/Demo/website/bin
+/src/Project/Demo/website/obj/Debug
+/src/Project/Demo/website/Training.Project.Demo.csproj.user
